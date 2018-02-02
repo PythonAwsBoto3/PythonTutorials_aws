@@ -1,0 +1,7 @@
+https://docs.aws.amazon.com/apigateway/api-reference/
+
+https://github.com/dwyl/learn-aws-lambda
+
+https://cloudonaut.io/create-a-serverless-restful-api-with-api-gateway-swagger-lambda-and-dynamodb/
+
+https://kennbrodhagen.net/2015/12/10/how-to-setup-iam-permissions-restricting-a-team-to-a-particular-api-gateway/
